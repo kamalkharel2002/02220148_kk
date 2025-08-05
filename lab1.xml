@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="02220148">
+        <name>Kamal Kharel</name>
+        <age>20</age>
+        <gender>Male</gender>
+        <department>Inforamtion Technology</department>
+        <email>kamal.kharel@college.edu</email>
+        <phone>17294224</phone>
+        <year>4</year>
+    </student>
+
+    <student id="02220149">
+        <name>Pema Choden</name>
+        <age>21</age>
+        <gender>Female</gender>
+        <department>Electrical Engineering</department>
+        <email>pemachoden@college.edu</email>
+        <phone>1732434</phone>
+        <year>4</year>
+    </student>
+
+    <student id="02220150">
+        <name>Doeji</name>
+        <age>22</age>
+        <gender>Male</gender>
+        <department>Mechanical Engineering</department>
+        <email>dorji@college.edu</email>
+        <phone>17392921</phone>
+        <year>3</year>
+    </student>
+
+    <student id="02220151">
+        <name>Karma</name>
+        <age>19</age>
+        <gender>Female</gender>
+        <department>Civil Engineering</department>
+        <email>karma@college.edu</email>
+        <phone>172982982</phone>
+        <year>4</year>
+    </student>
+</students>
