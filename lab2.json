@@ -1,0 +1,36 @@
+{
+    "Student Record": {
+        "students": [
+            {
+                "id": 1,
+                "name": "Kamal Kharel",
+                "age": 20,
+                "major": "Computer Science"
+            },
+            {
+                "id": 3,
+                "name": "Sabina",
+                "age": 21,
+                "major": "Mathematics"
+            },
+            {
+                "id": 5,
+                "name": "Damch2y",
+                "age": 23,
+                "major": "Physics"
+            },
+            {
+                "id": 59,
+                "name": "fasf",
+                "age": 44,
+                "major": "infa"
+            },
+            {
+                "id": 2,
+                "name": "Robin",
+                "age": 34,
+                "major": "eng"
+            }
+        ]
+    }
+}
